@@ -1,0 +1,5 @@
+Vous pouvez utiliser l'application comme suit :
+
+1- Vous pouvez exécuter le programme Librairie_Partition.jar dans une console. Vouller voir les resulatats directement parceque j'ai mis des données mock dans le main
+2- Vous pouvez ajouter le fichier .jar comme librarie externe et par la suite instancier la classe Partition et appleler la méthode PartitionList(ArrayList list, int taille).
+3- Ouvrir le dossier du projet et lancer un Run. Des données Mock sont implémntés dans la classe Main. 
